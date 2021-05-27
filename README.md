@@ -19,5 +19,5 @@
 </a>
 <br>
 <br>
-My Website:
-https://samzydev.xyz
+My Bitcoin Address:
+1HL8MMCzhJUiUuVWV7g8VCoHCR2FANjcFw
