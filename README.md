@@ -16,5 +16,4 @@
 </a>
 <br>
 <br>
-My Bitcoin Address:
-1HL8MMCzhJUiUuVWV7g8VCoHCR2FANjcFw
+Donate: https://paypal.me/SamzyDev
