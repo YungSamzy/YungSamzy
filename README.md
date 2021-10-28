@@ -19,4 +19,4 @@
 </a>
 <br>
 <br>
-Donate: https://paypal.me/SamzyDev
+Donate: https://samzy.dev/donate
